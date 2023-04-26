@@ -1,0 +1,1 @@
+Vorlauf-, Rücklauf- und Warmwassertemperatur einer Heizung mit Hilfe eines ESP01 messen.
